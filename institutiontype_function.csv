@@ -1,0 +1,14 @@
+FUNCTION,Account Manager,Analyst/Consultant,Board Member / CEO / CFO,Compliance officer / Risk manager,Corporate Treasurer,Departmental Manager,Managing Director/ Director / EVP,Not selected,Relationship Manager,Section Head/Supervisor,Vice President/ Functional Head
+Broker/Dealer,32.0,14.0,15.0,6.0,,11.0,16.0,,20.0,6.0,31.0
+Central Bank,32.0,294.0,26.0,13.0,,331.0,237.0,,31.0,237.0,191.0
+Commercial Bank,60.0,198.0,202.0,89.0,34.0,956.0,918.0,,302.0,316.0,933.0
+Corporate,60.0,211.0,84.0,12.0,66.0,257.0,152.0,,74.0,155.0,182.0
+Custodian,12.0,27.0,14.0,,5.0,24.0,89.0,,44.0,56.0,33.0
+Exchange,4.0,10.0,25.0,1.0,,17.0,43.0,,,9.0,14.0
+Investment Bank,35.0,24.0,27.0,8.0,11.0,86.0,221.0,,28.0,63.0,81.0
+Investment Manager,3.0,53.0,58.0,,4.0,81.0,46.0,,9.0,40.0,50.0
+Market Infrastructure,74.0,131.0,87.0,,,173.0,239.0,,28.0,68.0,79.0
+Not selected,,,,,,,,442.0,,,
+Payments Market Infrastructure,26.0,129.0,227.0,1.0,,152.0,213.0,,70.0,73.0,220.0
+Retail Bank,21.0,13.0,24.0,12.0,2.0,117.0,68.0,,41.0,27.0,115.0
+Software Vendor / Consultancy,396.0,809.0,380.0,47.0,5.0,556.0,885.0,,276.0,194.0,608.0
